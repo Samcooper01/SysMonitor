@@ -1,0 +1,11 @@
+CPU usage
+
+/proc/stat
+only supports up to 16 cpu cores
+
+/proc/meminfo
+
+statvfs for filesystem stats
+
+netork activity
+/proc/net/dev
